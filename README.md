@@ -2,6 +2,14 @@
 
 The ultimate goal of Q Amyloid is not to introduce new biological findings, but to democratise access to clinical centres by providing a scalable, transparent, and validated methodological tool for quantitative Aβ imaging. In doing so, it aims to support the development of Aβ-targeting therapies and enhance patient monitoring across research and routine clinical practice.
 
+## 🔑 Access
+If your **clinical center, university, or company** is interested in gaining access to Q Amyloid, please contact:  
+📧 **qamyloid@dei.unipd.it**
+
+## 📋 Compile the google form
+
+Compile the google form at this link 
+
 ## 📖 User Manual
 To learn how Q Amyloid works, please refer to the user manual included in this repository.  
 The manual provides detailed instructions on:
@@ -9,11 +17,6 @@ The manual provides detailed instructions on:
 - Development choices 
 - Main features
 - Practical examples
-
-## 🔑 Access
-If your **clinical center, university, or company** is interested in gaining access to Q Amyloid, please contact:  
-📧 **qamyloid@dei.unipd.it**
-
 ## 🤝 Contributions
 The project welcomes scientific and industrial collaborations.  
 To suggest improvements or report issues, please use the **Issues** section on GitHub.
