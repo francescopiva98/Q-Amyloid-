@@ -19,6 +19,15 @@ The manual provides detailed instructions on:
 The project welcomes scientific and industrial collaborations.  
 To suggest improvements or report issues, please use the **Issues** section on GitHub or contact us.
 
+## 🪪 Intellectual property and Licensing
+Q Amyloid, encompassing its underlying software, algorithms, methodology, and associated documentation, is the intellectual property of the Department of Information Engineering of the University of Padova, Via Gradenigo, 6/b - 35131 Padova.
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0).
+Under the terms of this licence, you are free to copy and redistribute the material in any medium or format, provided that you adhere to the following conditions:
+•	Attribution: You must give appropriate credit to the original authors, provide a link to the licence, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+•	Non-Commercial: You may not use the material for commercial purposes.
+•	No Derivatives: If you remix, transform, or build upon the material, you may not distribute the modified material.
+To view a copy of this licence, visit: http://creativecommons.org/licenses/by-nc-nd/4.0/ 
+
 ## © Copyright
 All content included on the Q Amyloid Site, such as text, graphics, logos, button icons, images, page layout and underlying code are regulated by Q Amyloid project and its associated funding bodies. By continuing to use the site you acknowledge that such contents are protected by copyright, database rights and other intellectual property rights. You can only use our copyrights or any of the content from the website with our prior written permission. 
 
