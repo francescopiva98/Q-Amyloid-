@@ -21,11 +21,11 @@ To suggest improvements or report issues, please use the **Issues** section on G
 
 ## 🪪 Intellectual property and Licensing
 Q Amyloid, encompassing its underlying software, algorithms, methodology, and associated documentation, is the intellectual property of the Department of Information Engineering of the University of Padova, Via Gradenigo, 6/b - 35131 Padova.
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0).
+This work is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)**.
 Under the terms of this licence, you are free to copy and redistribute the material in any medium or format, provided that you adhere to the following conditions:
-•	Attribution: You must give appropriate credit to the original authors, provide a link to the licence, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-•	Non-Commercial: You may not use the material for commercial purposes.
-•	No Derivatives: If you remix, transform, or build upon the material, you may not distribute the modified material.
+- **Attribution**: You must give appropriate credit to the original authors, provide a link to the licence, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **Non-Commercial**: You may not use the material for commercial purposes.
+- **No Derivatives**: If you remix, transform, or build upon the material, you may not distribute the modified material.
 To view a copy of this licence, visit: http://creativecommons.org/licenses/by-nc-nd/4.0/ 
 
 ## © Copyright
