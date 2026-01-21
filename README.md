@@ -5,7 +5,7 @@
 The ultimate goal of Q Amyloid is not to introduce new biological findings, but to democratise access to clinical centres by providing a scalable, transparent, and validated methodological tool for quantitative Aβ imaging. In doing so, it aims to support the development of Aβ-targeting therapies and enhance patient monitoring across research and routine clinical practice.
 
 ## 📋 Gain Access to the platform  
-To configure a secure service and access the platform, a certificate must be generated and installed on your computer. To create your account, fill in the form at this link:Compile the google form at this link: https://docs.google.com/forms/d/e/1FAIpQLSd3liL1fg8f9BLAtlgN7KQRypPxO8I4oZXz0wWTd-zhfMoZlA/viewform?usp=header
+To configure a secure service and access the platform, a certificate must be generated and installed on your computer. To create your account, fill in the form at this link: https://docs.google.com/forms/d/e/1FAIpQLSd3liL1fg8f9BLAtlgN7KQRypPxO8I4oZXz0wWTd-zhfMoZlA/viewform?usp=header
 
 ## 📖 User Manual
 To learn how Q Amyloid works, please refer to the user manual included in this repository.  
